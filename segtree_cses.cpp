@@ -70,6 +70,7 @@ void press_F_() {
  
 int main() {
     flash;	
+    int T = 1;
     for (int i = 1; i <= T; i++) {     
         press_F_();
     }    
