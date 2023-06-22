@@ -21,15 +21,7 @@ using namespace std;
 #define dbg(x) cerr << #x << " = " << x << "\n";
 #define ff first
 #define ss second
- 
-/*
-#pragma GCC target ("avx2")
-#pragma GCC optimization ("O3")
-#pragma comment (linker, "/stack:200000000")
-#pragma GCC optimize("Ofast")
-#pragma GCC target ("sse,sse2,sse3,ssse3,sse4,popcnt,abm,mmx,avx,tune=native")
-*/
-     
+      
 const long long INF = 1e9 + 7;
 const double MIN = 1e-6;
 const long long ARR = 1e6 + 11;
