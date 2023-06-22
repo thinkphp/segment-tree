@@ -69,14 +69,10 @@ void press_F_() {
 }
  
 int main() {
-    flash;
-	int T = 1;
-    // cin >> T;
-    for (int i = 1; i <= T; i++) {
-        // cout << "Case" << " " << i << ':' << " ";
+    flash;	
+    for (int i = 1; i <= T; i++) {     
         press_F_();
-    }
-    //Respa gold 2023-2024 InshAllah
+    }    
 }
  
 // g++ -std=c++17 main.cpp
