@@ -1,6 +1,14 @@
 # Segment Tree
 Segment Tree Advanced Data Structure
 
+### Big O Notation 
+
+Time Complexity: 
+
+- build time O(n)
+- update time O(log n)
+- query time O(log n)
+
 ### Practice
 
 https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/range-minimum-query/
